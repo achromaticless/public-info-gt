@@ -7,5 +7,10 @@
     "requested_information": "Requested information",
     "accept": "I accept",
     "terms": "Terms and conditions",
-    "request": "Request information"
+    "request": "Request information",
+    "how_to_write_my_request": "How to write my request?",
+    "understood": "Understood!",
+    "required_field": "This is a required field!",
+    "invalid_cui": "This DPI number is invalid!",
+    "invalid_email": "This email is invalid"
 }

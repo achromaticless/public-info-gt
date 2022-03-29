@@ -1,6 +1,6 @@
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { Header } from './common/header';
+import { Header } from './layout/header';
 import { Route, Routes } from 'react-router-dom';
 import { Home } from './route/home';
 import { FormRequest } from './route/form-request';

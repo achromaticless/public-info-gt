@@ -7,5 +7,10 @@
     "requested_information": "Información solicitada",
     "accept": "Acepto",
     "terms": "Términos y condiciones",
-    "request": "Solicitar información"
+    "request": "Solicitar información",
+    "how_to_write_my_request": "¿Cómo escribo mi solicitud?",
+    "understood": "¡Entendido!",
+    "required_field": "¡Este campo es obligatorio!",
+    "invalid_cui": "¡El número de DPI no es válido!",
+    "invalid_email": "El correo es inválido"
 }
